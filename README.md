@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hi there, I'm Gbolaro Omiyale
 
-<!--
-**Gydera/Gydera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Cloud Support Engineer | DevOps Enthusiast | Technical Writer | Microsoft Certified Trainer**
 
-Here are some ideas to get you started:
+I’m passionate about building reliable cloud systems, supporting developer experience, and creating clear technical content.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech & Tools
+- Cloud: Azure | Terraform | GitHub Actions  
+- DevOps: Docker | Kubernetes | Helm | CI/CD  
+- Scripting: Bash | Python (intro)  
+- DB & Infra: PostgreSQL | Linux | Git | SQL  
+- Docs: Markdown | Notion | GitHub Wiki  
+
+### 📚 Writing Samples
+- Technical Blog: [https://dev.to/cli_tayo](https://dev.to/cli_tayo)
+
+### 📂 Featured Projects
+- 🔧 **Students Record Db** — Helm chart deployments for a hotel booking system  
+
+### 📫 Get in Touch
+- 💼 https://www.linkedin.com/in/gbolaro-abiola-omiyale-582b01218/
+- 🌐 gbolaroomiyale1@gmail.com
+
+---
+> _“Teaching others is a way of learning twice.”_  
